@@ -18,7 +18,7 @@ async def ping(ctx):
     await ctx.send('pong')
     
 @bot.command()
-async def cinpo(ctx):
+async def chinpo(ctx):
     await ctx.send('ちんぽにゃ！')    
 
 
